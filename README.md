@@ -220,7 +220,7 @@ Lycée Dakhla, Oulad Berhil — 2019
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=jamaljab&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
